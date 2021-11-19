@@ -1,0 +1,19 @@
+import React from 'react';
+//import SiteNav from '../components/SiteNav';
+//import SiteFooter from '../components/SiteFooter';
+
+//import '../css/main.css';
+
+
+
+const Dashboard = () => {
+    return (
+      <div className="Dashboard">
+        <h1>This is our dashboard FROM THE LAB LOCATION!!</h1>
+      </div>
+    );
+};
+
+export default Dashboard;
+
+
